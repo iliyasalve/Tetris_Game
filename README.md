@@ -5,9 +5,13 @@
 Game Features:
 
 * _Simple control using keys on the keyboard:_
+
     _- Left/right: move the figure along the horizontal plane_
+
     _- Down: fall acceleration_
+
     _- Up: change the position of the figure_
+
 
 * _Displays the current score and saves the best score!_
 
@@ -27,8 +31,11 @@ Game Features:
 Caractéristiques de jeu:
 
 * _Contrôle simple à l'aide des touches du clavier :
+
     _- Gauche/droite : déplacez la figure le long du plan horizontal_
+
     _- Bas : accélération de la chute_
+    
     _- Haut : change la position de la figure_
 
 * _Affiche le score actuel et enregistre le meilleur score !_
